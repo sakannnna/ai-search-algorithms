@@ -1,0 +1,11 @@
+# 本地解释器缓存。
+__pycache__/
+*.py[cod]
+.venv/
+
+# 课程原件、个人提交文件及报告制作中间文件留在本机。
+*.pdf
+*.docx
+*.zip
+*.rar
+report/
