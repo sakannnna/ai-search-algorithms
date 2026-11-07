@@ -9,3 +9,7 @@ __pycache__/
 *.zip
 *.rar
 report/
+/实验二报告.md
+
+# README 中重跑实验使用的本地结果目录。
+/.local-results/
